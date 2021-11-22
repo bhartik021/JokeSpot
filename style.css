@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 500px;
+    background-color: #060c21;
+    display: flex;
+    justify-content: center;
+    font-family: 'Yaldevi', sans-serif;
+}
+
+p {
+    width: 280px;
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #89ff00 #00bcd4 #89ff00 #00bcd4;
+    padding: 10px;
+}
